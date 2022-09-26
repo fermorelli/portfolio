@@ -2,6 +2,6 @@ import styles from './knowledge.module.css';
 
 export const Knowledge = ()=>{
     return (
-        <div className={styles.knowledge}>Knowledge</div>
+        <section id='knowledge' className={styles.knowledge}>Knowledge</section>
     )
 };

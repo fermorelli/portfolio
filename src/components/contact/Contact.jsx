@@ -2,6 +2,6 @@ import styles from './contact.module.css';
 
 export const Contact = ()=>{
     return (
-        <div className={styles.contact}>Contact</div>
+        <section id='contact' className={styles.contact}>Contact</section>
     )
 };
