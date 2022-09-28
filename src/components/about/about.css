@@ -81,8 +81,12 @@
         margin: 2rem auto 4rem;
     }
 
+    .about__content {
+        text-align: center;
+    }
+
     .about__content p {
-        margin: 1rem 0 1.5rem;
+        margin: 2rem 0 2rem;
     }
 }
 
@@ -103,5 +107,7 @@
 
     .about__content p {
         margin: 1.5rem 0;
+        padding: 1rem;
+        font-size: 0.9rem;
     }
 }

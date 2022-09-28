@@ -33,11 +33,9 @@ export const About = ()=>{
                             <small>Lots of projects to checkout on my personal github repo</small>
                         </article>
                     </div>
-
                     <p>
-                        I am a front end programmer very passionate about technology and design. I started programming by studying on my own, then I was part of the 'Argentina Programa' initiative and I finished complementing my studies through an intensive 15-week bootcamp with the Radium Rocket company, where I was able to incorporate very extensive knowledge both in front and back end. This knowledge can be seen reflected in my projects stored in my github repo. I also studied Social Communication, which allows me to have a vast knowledge of marketing and communication strategies, and to have extensive design and aesthetic tools. Besides that, I'm a musician, so in my free time I spend my time rehearsing and playing with my band, which I am very passionate about.
+                        I'm a front end programmer very passionate about technology and design. I started programming by studying on my own, then I was part of the 'Argentina Programa' initiative and I finished complementing my studies through an intensive 15-week bootcamp with the Radium Rocket company, where I was able to incorporate very extensive knowledge both in front and back end. This knowledge can be seen reflected in my projects stored in my github repo. I also studied Social Communication, which allows me to have a vast knowledge of marketing and communication strategies, and to have extensive design and aesthetic tools. Besides that, I'm a musician, so in my free time I spend my time rehearsing and playing with my band, which I am very passionate about.
                     </p>
-
                     <a href="#contact" className='btn btn-primary'>Let's talk</a>
                 </div>
             </div>
