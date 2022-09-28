@@ -1,5 +1,5 @@
 import styles from './about.css';
-import me from '../../assets/me2.jpeg';
+import me from '../../assets/me4.jpg';
 import {FaCode, FaTools} from 'react-icons/fa';
 import {AiOutlineFundProjectionScreen} from 'react-icons/ai';
 
@@ -35,7 +35,7 @@ export const About = ()=>{
                     </div>
 
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis aperiam, officiis magni labore nisi cupiditate aut nobis, voluptate quisquam numquam officia dolor omnis animi blanditiis saepe ducimus itaque ipsam similique?
+                        I am a front end programmer very passionate about technology and design. I started programming by studying on my own, then I was part of the 'Argentina Programa' initiative and I finished complementing my studies through an intensive 15-week bootcamp with the Radium Rocket company, where I was able to incorporate very extensive knowledge both in front and back end. This knowledge can be seen reflected in my projects stored in my github repo. I also studied Social Communication, which allows me to have a vast knowledge of marketing and communication strategies, and to have extensive design and aesthetic tools. Besides that, I'm a musician, so in my free time I spend my time rehearsing and playing with my band, which I am very passionate about.
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Let's talk</a>

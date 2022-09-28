@@ -24,13 +24,22 @@
 }
 
 .portfolio__item h3 {
-    margin: 1.2rem 0 2rem;
+    margin: 2rem 0 1rem;
 }
 
 .portfolio__item-cta {
     display: flex;
+    justify-content: center;
     gap: 1rem;
     margin-bottom: 1rem;
+}
+
+.portfolio__item-text {
+    padding: 0 0.5rem;
+}
+
+.portfolio__item-description {
+    margin: 0 auto 2rem;
 }
 
 @media screen and (max-width: 1024px) {
