@@ -1,3 +1,7 @@
+.projects {
+    width: 100%;
+}
+
 .portfolio__container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -11,6 +15,7 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
+    max-width: 450px;
 }
 
 .portfolio__item:hover {
@@ -46,8 +51,13 @@
 
 @media screen and (max-width: 1024px) {
     .portfolio__container {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
         gap: 1.2rem;
+    }
+
+    .portfolio__item {
+        max-width: 500px;
+        margin: 0 auto;
     }
 }
 
@@ -55,5 +65,10 @@
     .portfolio__container {
         grid-template-columns: 1fr;
         gap: 1rem;
+    }
+
+    .portfolio__item {
+        max-width: 350px;
+        margin: 0 auto;
     }
 }
