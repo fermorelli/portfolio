@@ -21,7 +21,7 @@
 .knowledge__container > div h3 {
     text-align: center;
     margin-bottom: 2rem;
-    color: var(--color-primary);
+    color: var(--color-white);
 }
 
 .knowledge__content {
@@ -37,7 +37,7 @@
 
 .knowledge__details-icons {
     margin-top: 6px;
-    color: var(--color-primary);
+    color: rgb(94, 177, 255);
 }
 
 @media screen and (max-width: 1024px) {

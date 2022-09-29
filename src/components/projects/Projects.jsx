@@ -8,6 +8,7 @@ import TGX1 from '../../assets/trackgenix1.jpeg';
 import TGX2 from '../../assets/trackgenix2.jpeg';
 import TGX3 from '../../assets/trackgenix3.jpeg';
 import CAL from '../../assets/calculadora.png';
+import { ImageSwiper } from './imageSwiper';
 
 export const Projects = ()=>{
 
@@ -63,6 +64,7 @@ export const Projects = ()=>{
                     })
                 }
             </div>
+            <ImageSwiper />
         </section>
     )
 };
