@@ -40,6 +40,8 @@ form {
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 15px;
 }
 
 input, textarea {
@@ -55,6 +57,10 @@ input, textarea {
 
 input::placeholder, textarea::placeholder {
     color: var(--color-light);
+    font-family: 'Poppins', sans-serif;
+}
+
+form button {
     font-family: 'Poppins', sans-serif;
 }
 
