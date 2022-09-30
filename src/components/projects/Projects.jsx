@@ -9,21 +9,21 @@ export const Projects = ()=>{
             id: 1,
             title: 'E-commerce',
             description: 'Virtual store to browse and buy products, with a shopping cart and a credit card and shipping info form. Frontend made with react js, consuming an API to show the different items.',
-            github: 'https://github.com/ilcosme/E-commerce',
-            demo: 'https://ilcosme.github.io/E-commerce'
+            github: 'https://github.com/fermorelli/E-commerce',
+            demo: 'https://fermorelli.github.io/E-commerce'
         },
         {
             id: 2,
             title: 'Calculator',
             description: 'Functional calculator made from scratch with plain HTML, CSS and JS. Able to resolve the basics operation a normal calculator can handle. Style made entirely with plain css. ',
-            github: 'https://github.com/ilcosme/CalculadoraVainilla',
-            demo: 'https://ilcosme.github.io/CalculadoraVainilla'
+            github: 'https://github.com/fermorelli/CalculadoraVainilla',
+            demo: 'https://fermorelli.github.io/CalculadoraVainilla'
         },
         {
             id: 3,
             title: 'Trackgenix app',
             description: 'App made with a development team to provide a schedule tracking service to companies. Frontend made with react js. Backend built with node js, mongo db and express',
-            github: 'https://github.com/ilcosme/Trackgenix-app',
+            github: 'https://github.com/fermorelli/Trackgenix-app',
             demo: ''
         }
     ]
