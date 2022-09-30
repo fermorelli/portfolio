@@ -4,6 +4,7 @@ import {AiOutlineMail, AiOutlineWhatsApp} from 'react-icons/ai'
 import {RiMessengerLine} from 'react-icons/ri'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com';
+import swal from 'sweetalert';
 
 
 export const Contact = ()=>{
@@ -15,6 +16,12 @@ export const Contact = ()=>{
       e.preventDefault();
 
       emailjs.sendForm('service_xa1uhvy', 'template_t6ey4lc', form.current, 'UXd9m92vtBRbeiIVn');
+
+      swal({
+        text: "Email sent",
+        icon: "success",
+        className: "swal"
+      })
 
       e.target.reset();
 

@@ -64,15 +64,50 @@ form button {
     font-family: 'Poppins', sans-serif;
 }
 
+.swal{
+    width: 25vw;
+    height: 28vh;
+    color: var(--color-bg-variant);
+}
+
+.swal button {
+    width: max-content;
+    display: inline-block;
+    color: var(--color-white);
+    padding: 0.7rem 1.2rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    border: 1px solid var(--color-primary);
+    transition: var(--transition);
+    background-color: var(--color-bg-variant);
+}
+
+.swal>button:hover {
+    background-color: var(--color-white);
+    color: var(--color-bg);
+    border-color: transparent;
+}
+
 @media screen and (max-width: 1024px) {
     .contact__container {
         grid-template-columns: 1fr;
         gap: 2rem;
     }
+
+    .swal {
+        width: 40vw;
+        height: 22vh;
+    }
+
 }
 
 @media screen and (max-width: 600px) {
     .contact__container {
         width: var(--container-width-sm);
+    }
+
+    .swal {
+        width: 65vw;
+        height: 30vh;
     }
 }
