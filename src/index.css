@@ -119,11 +119,18 @@ img {
     .section {
         margin-top: 6rem;
     }
+
+    body{
+        height: 200vh;
+    }
 }
 
 @media screen and (max-width: 600px) {
     .container {
         width: var(--container-width-ms);
+    }
+    body{
+        height: 200vh;
     }
 
     .section > h2 {
