@@ -38,8 +38,8 @@ body {
     font-family: 'Poppins', sans-serif;
     color: var(--color-white);
     line-height: 1.7;
-    background: rgb(16,20,140);
-    background: radial-gradient(circle, rgba(16,20,140,1) 18%, rgba(89,18,182,1) 39%, rgba(102,17,186,1) 61%, rgba(10,0,83,1) 85%);
+    background: rgb(168,106,240);
+    background: radial-gradient(circle, rgba(168,106,240,1) 0%, rgba(95,17,184,1) 50%, rgba(23,8,133,1) 100%);
 }
 
 .container {
@@ -120,21 +120,23 @@ img {
         margin-top: 6rem;
     }
 
-    body{
-        height: 200vh;
+    html {
+        height: 100vh;
     }
+
 }
 
 @media screen and (max-width: 600px) {
     .container {
         width: var(--container-width-ms);
     }
-    body{
-        height: 200vh;
-    }
 
     .section > h2 {
         margin-bottom: 2rem;
+    }
+
+    html {
+        height: 100vh;
     }
 }
 

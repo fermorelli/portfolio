@@ -1,20 +1,8 @@
 .loader{
-    width: 100px;
-    height: 100px;
+    width: 100vw;
+    height: 100vh;
+    border: 3px solid red;
     display: flex;
-    margin: 500px auto;
     justify-content: center;
     align-items: center;
-}
-
-@media screen and (max-width: 1024px) {
-    .loader {
-        margin: 300px auto;
-    }
-}
-
-@media screen and (max-width: 600px) {
-    .loader {
-        margin: 200px auto;
-    }
 }
