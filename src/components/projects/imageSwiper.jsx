@@ -41,31 +41,6 @@ export const ImageSwiper = ({ id }) => {
                 </SwiperSlide>
             </Swiper>
         </div>
-    )}else if(id===2){
-        return(
-        <div className='swiper__container'>
-        <Swiper modules={[Navigation, EffectFade]}
-        navigation
-        effect
-        speed={800}
-        slidesPerView={1}
-        loop
-        className='my__swiper'
-        >
-            <SwiperSlide className='slider'>
-                <img src={CAL} alt="" />
-            </SwiperSlide>
-            <SwiperSlide className='slider'>
-                <img src={CAL} alt="" />
-            </SwiperSlide>
-            <SwiperSlide className='slider'>
-                <img src={CAL} alt="" />
-            </SwiperSlide>
-            <SwiperSlide className='slider'>
-                <img src={CAL} alt="" />
-            </SwiperSlide>
-        </Swiper>
-    </div>
     )}else if(id===3){
         return(
             <div className='swiper__container'>
@@ -88,5 +63,27 @@ export const ImageSwiper = ({ id }) => {
                 </SwiperSlide>
             </Swiper>
             </div>
-        )};
+        )}else if(id===4){
+            return(
+                <div className='swiper__container'>
+                <Swiper modules={[Navigation, EffectFade]}
+                navigation
+                effect
+                speed={800}
+                slidesPerView={1}
+                loop
+                className='my__swiper'
+                >
+                    <SwiperSlide className='slider'>
+                        <img src={TGX1} alt="" />
+                    </SwiperSlide>
+                    <SwiperSlide className='slider'>
+                        <img src={TGX2} alt="" />
+                    </SwiperSlide>
+                    <SwiperSlide className='slider'>
+                        <img src={TGX3} alt="" />
+                    </SwiperSlide>
+                </Swiper>
+                </div>
+            )};
 };

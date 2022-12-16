@@ -6,26 +6,26 @@ export const Projects = ()=>{
 
     const projects = [
         {
+            id: 4,
+            title: 'Cannagotchi',
+            description: 'Cannabis crops tracking app developed by me using the complete MERN stack, in addition with Firebase to authenticate users. The app is aimed to help you maintain a control over your weed crops in order to help you remembering plants cycles, harvest dates and much more!',
+            github: 'https://github.com/fermorelli/Trackgenix-app',
+            demo: ''
+        },
+        {
             id: 1,
             title: 'E-commerce',
-            description: 'Virtual store to browse and buy products, with a shopping cart and a credit card and shipping info form. Frontend made with react js, consuming an API to show the different items.',
+            description: 'Virtual store to browse and buy different products. Built with a shopping cart and a credit card and shipping info form to make payments. Frontend made with react js, using the context hook, as well as the form hook for validations. Data is consumed from an API.',
             github: 'https://github.com/fermorelli/E-commerce',
             demo: 'https://fermorelli.github.io/E-commerce'
         },
         {
-            id: 2,
-            title: 'Calculator',
-            description: 'Functional calculator made from scratch with plain HTML, CSS and JS. Able to resolve the basics operation a normal calculator can handle. Style made entirely with plain css. ',
-            github: 'https://github.com/fermorelli/CalculadoraVainilla',
-            demo: 'https://fermorelli.github.io/CalculadoraVainilla'
-        },
-        {
             id: 3,
-            title: 'Trackgenix app',
-            description: 'App made with a development team to provide a schedule tracking service to companies. Frontend made with react js. Backend built with node js, mongo db and express',
+            title: 'Trackgenix ',
+            description: 'App made with a development team, aimed to provide a schedule tracking service to companies wanting to manage their staff. Users can track their worked hours along with projects in wich they are involved. Also users with admin roles can add, edit and delete existing users with employee role. Frontend made with react js. Backend built with node js, mongo db and express',
             github: 'https://github.com/fermorelli/Trackgenix-app',
             demo: ''
-        }
+        },
     ]
 
     return (

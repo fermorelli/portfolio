@@ -40,6 +40,10 @@
     color: rgb(94, 177, 255);
 }
 
+.knowledge__design {
+    align-self: center;
+}
+
 @media screen and (max-width: 1024px) {
     .knowledge__container {
         grid-template-columns: 1fr;

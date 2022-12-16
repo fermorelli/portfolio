@@ -46,6 +46,44 @@ export const Knowledge = ()=>{
                         </div>
                     </div>
                 </div>
+                <div className="knowledge__design">
+                <h3>Design</h3>
+                    <div className="knowledge__content">
+                        <div className='knowledge__details'>
+                            <BsPatchCheckFill className='knowledge__details-icons' />
+                            <h4>Adobe Photoshop</h4>
+                        </div>
+                        <div className='knowledge__details'>
+                            <BsPatchCheckFill className='knowledge__details-icons' />
+                            <h4>Adobe Illustrator</h4>
+                        </div>
+                        <div className='knowledge__details'>
+                            <BsPatchCheckFill className='knowledge__details-icons' />
+                            <h4>Figma</h4>
+                        </div>
+                    </div>
+                </div>
+                <div className="knowledge__tools">
+                <h3>Tools</h3>
+                    <div className="knowledge__content">
+                        <div className='knowledge__details'>
+                            <BsPatchCheckFill className='knowledge__details-icons' />
+                            <h4>Firebase</h4>
+                        </div>
+                        <div className='knowledge__details'>
+                            <BsPatchCheckFill className='knowledge__details-icons' />
+                            <h4>Git/Github</h4>
+                        </div>
+                        <div className='knowledge__details'>
+                            <BsPatchCheckFill className='knowledge__details-icons' />
+                            <h4>Postman</h4>
+                        </div>
+                        <div className='knowledge__details'>
+                            <BsPatchCheckFill className='knowledge__details-icons' />
+                            <h4>Slack</h4>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
     )
