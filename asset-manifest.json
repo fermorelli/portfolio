@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.09bc4015.css",
-    "main.js": "/portfolio/static/js/main.3d53bdd1.js",
+    "main.css": "/portfolio/static/css/main.0713598b.css",
+    "main.js": "/portfolio/static/js/main.7daec936.js",
     "static/media/me.png": "/portfolio/static/media/me.dd9184cb2ce6457f6422.png",
-    "static/media/CV.pdf": "/portfolio/static/media/CV.89b579a668f104ab8ad3.pdf",
+    "static/media/landing2.jpg": "/portfolio/static/media/landing2.989cfad7367a9da0653b.jpg",
     "static/media/me4.jpg": "/portfolio/static/media/me4.c6dd5b39a70fb753c120.jpg",
+    "static/media/landing1.jpg": "/portfolio/static/media/landing1.ada967cf7d674922991f.jpg",
+    "static/media/addplant.jpg": "/portfolio/static/media/addplant.d15bb6c00c03f42b9ad4.jpg",
     "static/media/ecommerce.jpg": "/portfolio/static/media/ecommerce.4a133a495f37791e7e98.jpg",
+    "static/media/singleplant.jpg": "/portfolio/static/media/singleplant.a9b2e83605f584154899.jpg",
+    "static/media/CvFernandoMorelli.pdf": "/portfolio/static/media/CvFernandoMorelli.1d199cc070904e58e523.pdf",
     "static/media/ecommerce2.jpg": "/portfolio/static/media/ecommerce2.caf5b997e205fead58f2.jpg",
     "static/media/ecommerce3.jpg": "/portfolio/static/media/ecommerce3.c469a621c32b82d69913.jpg",
     "static/media/ecommerce4.jpg": "/portfolio/static/media/ecommerce4.0672de3ba9402673cb43.jpg",
     "static/media/trackgenix3.jpeg": "/portfolio/static/media/trackgenix3.ffa6f8314893ba2ab757.jpeg",
-    "static/media/calculadora.png": "/portfolio/static/media/calculadora.9058810f91aad5157b25.png",
     "static/media/trackgenix2.jpeg": "/portfolio/static/media/trackgenix2.dabcf09032cd57aa44b4.jpeg",
     "static/media/trackgenix1.jpeg": "/portfolio/static/media/trackgenix1.89aba5600cc098df5e3b.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.09bc4015.css.map": "/portfolio/static/css/main.09bc4015.css.map",
-    "main.3d53bdd1.js.map": "/portfolio/static/js/main.3d53bdd1.js.map"
+    "main.0713598b.css.map": "/portfolio/static/css/main.0713598b.css.map",
+    "main.7daec936.js.map": "/portfolio/static/js/main.7daec936.js.map"
   },
   "entrypoints": [
-    "static/css/main.09bc4015.css",
-    "static/js/main.3d53bdd1.js"
+    "static/css/main.0713598b.css",
+    "static/js/main.7daec936.js"
   ]
 }
