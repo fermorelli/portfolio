@@ -22,7 +22,7 @@ export const Projects = ()=>{
         {
             id: 3,
             title: 'Trackgenix ',
-            description: 'App made with a development team, aimed to provide a schedule tracking service to companies wanting to manage their staff. Users can track their worked hours along with projects in wich they are involved. Also users with admin roles can add, edit and delete existing users with employee role. Frontend made with react js. Backend built with node js, mongo db and express',
+            description: 'App made with a development team, aimed to provide a schedule tracking service to companies wanting to manage their staff. Users can track their worked hours along with projects in wich they are involved. Frontend made with react js. Backend built with node js, mongo db and express',
             github: 'https://github.com/fermorelli/Trackgenix-app',
             demo: ''
         },

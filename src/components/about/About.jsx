@@ -25,7 +25,7 @@ export const About = ()=>{
                         <article className='about__card'>
                             <FaTools className='about_icon'/>
                             <h5>Tools</h5>
-                            <small>Mongo DB, Firebase, Postman, Figma, Slack, Photoshop</small>
+                            <small>Mongo DB, Firebase, Postman, Figma, Slack, Trello, Photoshop, Illustrator</small>
                         </article>
                         <article className='about__card'>
                             <AiOutlineFundProjectionScreen className='about_icon'/>

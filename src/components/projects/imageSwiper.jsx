@@ -12,7 +12,10 @@ import ECM4 from  '../../assets/ecommerce4.jpg';
 import TGX1 from '../../assets/trackgenix1.jpeg';
 import TGX2 from '../../assets/trackgenix2.jpeg';
 import TGX3 from '../../assets/trackgenix3.jpeg';
-import CAL from '../../assets/calculadora.png';
+import CAN1 from '../../assets/landing1.jpg';
+import CAN2 from '../../assets/landing2.jpg';
+import CAN3 from '../../assets/addplant.jpg';
+import CAN4 from '../../assets/singleplant.jpg';
 
 export const ImageSwiper = ({ id }) => {
     if(id===1){
@@ -75,13 +78,16 @@ export const ImageSwiper = ({ id }) => {
                 className='my__swiper'
                 >
                     <SwiperSlide className='slider'>
-                        <img src={TGX1} alt="" />
+                        <img src={CAN1} alt="" />
                     </SwiperSlide>
                     <SwiperSlide className='slider'>
-                        <img src={TGX2} alt="" />
+                        <img src={CAN2} alt="" />
                     </SwiperSlide>
                     <SwiperSlide className='slider'>
-                        <img src={TGX3} alt="" />
+                        <img src={CAN3} alt="" />
+                    </SwiperSlide>
+                    <SwiperSlide className='slider'>
+                        <img src={CAN4} alt="" />
                     </SwiperSlide>
                 </Swiper>
                 </div>

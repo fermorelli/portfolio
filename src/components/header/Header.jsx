@@ -9,7 +9,7 @@ export const Header = ()=>{
             <div className="container header__container">
                 <h5>Hello I'm</h5>
                 <h1>Fernando Morelli</h1>
-                <h5 className="text-light">a front end trainee developer</h5>
+                <h5 className="text-light">a web developer</h5>
                 <CTA />
                 <HeaderSocials />
 
