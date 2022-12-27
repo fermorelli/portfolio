@@ -13,9 +13,9 @@ export const Footer = ()=>{
                 <li><a href="#contact">Contact</a></li>
             </ul>
             <div className="footer__socials">
-                <a href="https://linkedin.com"><BsLinkedin /></a>
-                <a href="https://github.com"><BsGithub /></a>
-                <a href="https://facebook.com"><BsFacebook /></a>
+                <a href="https://www.linkedin.com/in/fer-morelli/" target='_blank' rel='noreferrer'><BsLinkedin /></a>
+                <a href="https://github.com/fermorelli" target='_blank' rel='noreferrer'><BsGithub /></a>
+                <a href="https://www.facebook.com/ilcosme18" target='_blank' rel='noreferrer'><BsFacebook /></a>
             </div>
         </footer>
     )
