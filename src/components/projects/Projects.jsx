@@ -9,7 +9,7 @@ export const Projects = ()=>{
             id: 4,
             title: 'Cannagotchi',
             description: 'Cannabis crops tracking app developed by me using the complete MERN stack, in addition with Firebase to authenticate users. The app is aimed to help you maintain a control over your weed crops in order to help you remembering plants cycles, harvest dates and much more!',
-            github: 'https://github.com/fermorelli/Trackgenix-app',
+            github: 'https://github.com/fermorelli/cannagotchi',
             demo: ''
         },
         {
