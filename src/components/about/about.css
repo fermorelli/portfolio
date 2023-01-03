@@ -71,6 +71,10 @@
     font-weight: 200;
 }
 
+#here {
+    text-decoration: underline;
+}
+
 @media screen and (max-width: 1024px) {
     .about__container {
         grid-template-columns: 1fr;

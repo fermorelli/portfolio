@@ -1,4 +1,3 @@
-/* eslint-disable react/jsx-no-target-blank */
 import './projects.css';
 import { ImageSwiper } from './imageSwiper';
 
@@ -8,14 +7,14 @@ export const Projects = ()=>{
         {
             id: 4,
             title: 'Cannagotchi',
-            description: 'Cannabis crops tracking app developed by me using the complete MERN stack, in addition with Firebase to authenticate users. The app is aimed to help you maintain a control over your weed crops in order to help you remembering plants cycles, harvest dates and much more!',
+            description: 'Cannabis crops tracking app developed by me using the complete MERN stack, in addition with Firebase to authenticate users. The app is aimed to help you maintain a control over your weed crops and to help you remembering plants cycles, harvest dates and much more!',
             github: 'https://github.com/fermorelli/cannagotchi',
             demo: ''
         },
         {
             id: 1,
-            title: 'E-commerce',
-            description: 'Virtual store to browse and buy different products. Built with a shopping cart and a credit card and shipping info form to make payments. Frontend made with react js, using the context hook, as well as the form hook for validations. Data is consumed from an API.',
+            title: 'Market Palace',
+            description: 'Virtual store to browse and buy different products. Built with a shopping cart and, a credit card and shipping info form to make payments. Frontend made with react js, using the context hook, as well as the form hook for validations. Data is consumed from an API.',
             github: 'https://github.com/fermorelli/E-commerce',
             demo: 'https://fermorelli.github.io/E-commerce'
         },
