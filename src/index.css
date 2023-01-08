@@ -111,6 +111,20 @@ img {
     object-fit: cover;
 }
 
+.language-toggle{
+    position: fixed;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0 0 1rem;
+    font-size: 0.9rem;
+}
+
+.language-toggle svg{
+    transform: scale(2);
+}
+
 @media screen and (max-width: 1024px) {
     .container {
         width: var(--container-width-md);
@@ -137,6 +151,10 @@ img {
 
     html {
         height: 100vh;
+    }
+
+    .language-toggle {
+        position: relative;
     }
 }
 
