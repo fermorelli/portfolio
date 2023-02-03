@@ -6,6 +6,7 @@ export const CTA = ({lan}) =>{
         return (
             <div className="cta">
                 <a href={CV1} download className='btn'>Download CV</a>
+                <div className="line"></div>
                 <a href="#contact" className='btn btn-primary'>Let's talk</a>
             </div>
         )
@@ -13,6 +14,7 @@ export const CTA = ({lan}) =>{
         return (
             <div className="cta">
                 <a href={CV2} download className='btn'>Descargar CV</a>
+                <div className="line"></div>
                 <a href="#contact" className='btn btn-primary'>Hablemos</a>
             </div>
         )

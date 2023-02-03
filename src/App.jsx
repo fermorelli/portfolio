@@ -13,8 +13,8 @@ import {BsToggleOn, BsToggleOff} from 'react-icons/bs';
 const App =  ()=>{
 
     const [loading, isLoading] = useState(false);
-    const [lan, setLan] = useState(false);
-    const [isOn, setIsOn] = useState(false);
+    const [lan, setLan] = useState(true);
+    const [isOn, setIsOn] = useState(true);
 
     const changeLan = ()=>{
       setLan(!lan)

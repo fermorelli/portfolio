@@ -25,6 +25,13 @@ export const Projects = ({lan})=>{
             github: 'https://github.com/fermorelli/Trackgenix-app',
             demo: ''
         },
+        {
+            id: 2,
+            title: 'Shopping List ',
+            description: 'Shopping list made entirely with vanilla JavaScript, HTML and CSS, using local storage as storage method. It allows the user to add, edit or delete items at their choice, forming a shopping list that is persistent in the browser for greater functionality.',
+            github: 'https://github.com/fermorelli/shopping-list',
+            demo: 'https://fermorelli.github.io/shopping-list/'
+        },
     ]
 
     const projectsES = [
@@ -48,6 +55,13 @@ export const Projects = ({lan})=>{
             description: 'Aplicación realizada con un equipo de desarrollo, destinada a brindar un servicio de seguimiento de horarios a empresas que desean administrar su personal. Los usuarios pueden realizar un seguimiento de sus horas trabajadas junto con los proyectos en los que están involucrados. Frontend hecho con react js. Backend construido con node js, mongo db y express',
             github: 'https://github.com/fermorelli/Trackgenix-app',
             demo: ''
+        },
+        {
+            id: 2,
+            title: 'Shopping List ',
+            description: 'Lista de compras realizada integramente con JavaScript vainilla, HTML y CSS, utilizando local storage como método de almacenamiento. Permite que el usuario añada, edite o borre elementos a su elección, formando una lista de compras que es persistente en el navegador para una mayor funcionalidad.',
+            github: 'https://github.com/fermorelli/shopping-list',
+            demo: 'https://fermorelli.github.io/shopping-list/'
         },
     ]
 
