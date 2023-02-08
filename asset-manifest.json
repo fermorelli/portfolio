@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7dae0456.css",
-    "main.js": "/portfolio/static/js/main.64045780.js",
+    "main.css": "/portfolio/static/css/main.aaafcf61.css",
+    "main.js": "/portfolio/static/js/main.4ca9f7d9.js",
     "static/media/me.png": "/portfolio/static/media/me.dd9184cb2ce6457f6422.png",
     "static/media/landing2.jpg": "/portfolio/static/media/landing2.989cfad7367a9da0653b.jpg",
     "static/media/me4.jpg": "/portfolio/static/media/me4.c6dd5b39a70fb753c120.jpg",
     "static/media/landing1.jpg": "/portfolio/static/media/landing1.ada967cf7d674922991f.jpg",
     "static/media/addplant.jpg": "/portfolio/static/media/addplant.d15bb6c00c03f42b9ad4.jpg",
+    "static/media/musicPlayer.jpg": "/portfolio/static/media/musicPlayer.8daed91de059a82fec28.jpg",
     "static/media/ecommerce.jpg": "/portfolio/static/media/ecommerce.4a133a495f37791e7e98.jpg",
     "static/media/singleplant.jpg": "/portfolio/static/media/singleplant.a9b2e83605f584154899.jpg",
     "static/media/CVFernandoMorelliES.pdf": "/portfolio/static/media/CVFernandoMorelliES.93093ea02402d213c949.pdf",
@@ -15,14 +16,19 @@
     "static/media/ecommerce3.jpg": "/portfolio/static/media/ecommerce3.c469a621c32b82d69913.jpg",
     "static/media/ecommerce4.jpg": "/portfolio/static/media/ecommerce4.0672de3ba9402673cb43.jpg",
     "static/media/trackgenix3.jpeg": "/portfolio/static/media/trackgenix3.ffa6f8314893ba2ab757.jpeg",
+    "static/media/calculadora.png": "/portfolio/static/media/calculadora.9058810f91aad5157b25.png",
     "static/media/trackgenix2.jpeg": "/portfolio/static/media/trackgenix2.dabcf09032cd57aa44b4.jpeg",
     "static/media/trackgenix1.jpeg": "/portfolio/static/media/trackgenix1.89aba5600cc098df5e3b.jpeg",
+    "static/media/shopping2.jpg": "/portfolio/static/media/shopping2.9a9f5dba9b7e8cc6e4d3.jpg",
+    "static/media/shopping3.jpg": "/portfolio/static/media/shopping3.23235e334a991f33fa24.jpg",
+    "static/media/shopping4.jpg": "/portfolio/static/media/shopping4.1d09cfaa96cd11ace818.jpg",
+    "static/media/shopping1.jpg": "/portfolio/static/media/shopping1.b001507027f482e9fa98.jpg",
     "index.html": "/portfolio/index.html",
-    "main.7dae0456.css.map": "/portfolio/static/css/main.7dae0456.css.map",
-    "main.64045780.js.map": "/portfolio/static/js/main.64045780.js.map"
+    "main.aaafcf61.css.map": "/portfolio/static/css/main.aaafcf61.css.map",
+    "main.4ca9f7d9.js.map": "/portfolio/static/js/main.4ca9f7d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dae0456.css",
-    "static/js/main.64045780.js"
+    "static/css/main.aaafcf61.css",
+    "static/js/main.4ca9f7d9.js"
   ]
 }
