@@ -20,6 +20,8 @@ import SPL1 from '../../assets/shopping1.jpg';
 import SPL2 from '../../assets/shopping2.jpg';
 import SPL3 from '../../assets/shopping3.jpg';
 import SPL4 from '../../assets/shopping4.jpg';
+import CAL1 from '../../assets/calculadora.png';
+import MUS from '../../assets/musicPlayer.jpg';
 
 
 export const ImageSwiper = ({ id }) => {
@@ -121,5 +123,37 @@ export const ImageSwiper = ({ id }) => {
                         </SwiperSlide>
                     </Swiper>
                     </div>
-                )};
+                )}else if(id===6){
+                    return(
+                        <div className='swiper__container'>
+                        <Swiper modules={[Navigation, EffectFade]}
+                        navigation
+                        effect
+                        speed={800}
+                        slidesPerView={1}
+                        loop
+                        className='my__swiper'
+                        >
+                            <SwiperSlide className='slider'>
+                                <img src={CAL1} alt="calculator" />
+                            </SwiperSlide>
+                        </Swiper>
+                        </div>
+                    )}else if(id===5){
+                        return(
+                            <div className='swiper__container'>
+                            <Swiper modules={[Navigation, EffectFade]}
+                            navigation
+                            effect
+                            speed={800}
+                            slidesPerView={1}
+                            loop
+                            className='my__swiper'
+                            >
+                                <SwiperSlide className='slider'>
+                                    <img src={MUS} alt="music_player" />
+                                </SwiperSlide>
+                            </Swiper>
+                            </div>
+                        )};
 };
