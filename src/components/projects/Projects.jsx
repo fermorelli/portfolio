@@ -83,8 +83,8 @@ export const Projects = ({lan})=>{
                                         <p className='portfolio__item-description'>{description}</p>
                                     </div>
                                     <div className="portfolio__item-cta">
-                                        <a href={github} className='btn' target='_blank'>Github</a>
-                                        <a href={demo} target='_blank' className='btn btn-primary'>Deploy</a>
+                                        <a href={github} className='btn' target='_blank'  id='btn'>Github</a>
+                                        <a href={demo} target='_blank' className='btn btn-primary'  id='btn'>Deploy</a>
                                     </div>
                             </article>
                             )
@@ -111,8 +111,8 @@ export const Projects = ({lan})=>{
                                         <p className='portfolio__item-description'>{description}</p>
                                     </div>
                                     <div className="portfolio__item-cta">
-                                        <a href={github} className='btn' target='_blank'>Github</a>
-                                        <a href={demo} target='_blank' className='btn btn-primary'>Deploy</a>
+                                        <a href={github} className='btn' target='_blank'  id='btn'>Github</a>
+                                        <a href={demo} target='_blank' className='btn btn-primary'  id='btn'>Deploy</a>
                                     </div>
                             </article>
                             )

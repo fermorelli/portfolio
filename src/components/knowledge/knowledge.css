@@ -13,7 +13,6 @@
 }
 
 .knowledge__container > div:hover {
-    background: transparent;
     border-color: var(--color-primary-variant);
     cursor: default;
 }
@@ -37,7 +36,7 @@
 
 .knowledge__details-icons {
     margin-top: 6px;
-    color: rgb(94, 177, 255);
+    color: rgb(255, 187, 123);
 }
 
 .knowledge__design {

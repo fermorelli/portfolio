@@ -58,7 +58,7 @@ export const Contact = ({lan})=>{
                         <input type="text" name='name' placeholder='Your full name' required />
                         <input type="email" name='email' placeholder='Your email' required />
                         <textarea name="message" placeholder='Your message' rows="7" required></textarea>
-                        <button type='submit' className='btn btn-primary'>Send Message</button>
+                        <button type='submit' className='btn btn-primary'  id='btn-form'>Send Message</button>
                     </form>
                 </div>
             </section>
@@ -94,7 +94,7 @@ export const Contact = ({lan})=>{
                         <input type="text" name='name' placeholder='Tu nombre completo' required />
                         <input type="email" name='email' placeholder='Tu email' required />
                         <textarea name="message" placeholder='Tu mensaje' rows="7" required></textarea>
-                        <button type='submit' className='btn btn-primary'>Enviar mensaje</button>
+                        <button type='submit' className='btn btn-primary' id='btn-form'>Enviar mensaje</button>
                     </form>
                 </div>
             </section>

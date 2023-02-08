@@ -12,9 +12,9 @@
 }
 
 :root {
-    --color-bg: #bb17b3;
-    --color-bg-variant: #dc3bf1;
-    --color-primary: #ff98f1;
+    --color-bg: #92058b;
+    --color-bg-variant: #d72ffd;
+    --color-primary: #ec72dc;
     --color-primary-variant: rgba(163, 37, 236, 0.4);
     --color-white: #fff;
     --color-white-variant: rgba(245,245,245,0.9);
@@ -40,7 +40,9 @@ body {
     color: var(--color-white);
     line-height: 1.7;
     /* mask-image: linear-gradient(to bottom, transparent, black); */
-    background: linear-gradient(90deg, hotpink, rebeccapurple); 
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(190,44,140,1) 33%, rgba(223,36,115,1) 66%, rgba(253,89,29,1) 100%);
+    /* background: rgb(131,58,180);
+    background: linear-gradient(149deg, rgba(131,58,180,1) 0%, rgba(190,44,140,1) 25%, rgba(223,36,115,1) 50%, rgba(253,89,29,1) 75%, rgba(252,176,69,1) 100%); */
 }
 
 .container {
@@ -122,6 +124,20 @@ img {
     transform: scale(2);
 }
 
+#btn{
+    padding: 0.5rem;
+    border-radius: 5px;
+    border-left: 2px solid rgba(142, 1, 185, 0.7);
+    border-bottom: 2px solid rgba(142, 1, 185, 0.7);
+}
+
+#btn-about, #btn-form{
+    padding: 0.5rem;
+    border-radius: 5px;
+    border-left: 2px solid rgba(245, 16, 245, 0.7);
+    border-bottom: 2px solid rgba(245, 16, 245, 0.7);
+}
+
 @media screen and (max-width: 1024px) {
     .container {
         width: var(--container-width-md);
@@ -138,18 +154,11 @@ img {
 }
 
 @media screen and (max-width: 600px) {
-    body{
-        background: rgb(168,106,240);
-        background: radial-gradient(circle, rgba(168,106,240,1) 0%, rgba(95,17,184,1) 50%, rgba(23,8,133,1) 100%);
-    }
 
     .container {
         width: var(--container-width-ms);
     }
 
-    .section > h2 {
-        margin-bottom: 2rem;
-    }
 
     html {
         height: 100vh;
