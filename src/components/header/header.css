@@ -100,12 +100,13 @@ header {
     }
 
     .header h1{
-        font-size: 4.5rem;
-        line-height: 5rem;
+        font-size: 3.5rem;
+        line-height: 3.5rem;
+        text-align: center;
     }
 
     .header h3{
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 
     .header__socials, .scroll__down {
