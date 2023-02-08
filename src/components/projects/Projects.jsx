@@ -7,7 +7,7 @@ export const Projects = ({lan})=>{
         {
             id: 4,
             title: 'Cannagotchi (WIP)',
-            description: 'Cannabis crops tracking app developed by me using the complete MERN stack, in addition with Firebase to authenticate users. The app is aimed to help you maintain a control over your weed crops and to help you remembering plants cycles, harvest dates and much more!',
+            description: `Cannabis crops tracking app developed by me using the complete MERN stack, in addition with Firebase to authenticate users. The app is aimed to help you maintain a control over your weed crops and to help you remembering plants cycles, harvest dates and much more!. No deployment yet since it's a work in progress`,
             github: 'https://github.com/fermorelli/cannagotchi',
             demo: ''
         },
@@ -41,7 +41,7 @@ export const Projects = ({lan})=>{
         },
         {
             id: 6,
-            title: 'Calculadora',
+            title: 'Calculator',
             description: 'Functional calculator made from scratch with plain HTML, CSS and JavaScript. Able to solve the basic operations that a normal calculator can handle. The style is made entirely with CSS, without libraries.',
             github: 'https://github.com/fermorelli/CalculadoraVainilla',
             demo: 'https://fermorelli.github.io/CalculadoraVainilla/'
@@ -52,7 +52,7 @@ export const Projects = ({lan})=>{
         {
             id: 4,
             title: 'Cannagotchi (WIP)',
-            description: 'Aplicación de seguimiento de cultivos de cannabis desarrollada por mí utilizando el stack MERN completo, además de Firebase para autenticar a los usuarios. La app tiene como objetivo ayudarte a mantener un control detallado sobre tus cultivos, y a recordar los ciclos de las plantas, las fechas de cosecha y mucho más!',
+            description: `Aplicación de seguimiento de cultivos de cannabis desarrollada por mí utilizando el stack MERN completo, además de Firebase para autenticar a los usuarios. La app tiene como objetivo ayudarte a mantener un control detallado sobre tus cultivos, y a recordar los ciclos de las plantas, las fechas de cosecha y mucho más!. No hay deploy aún ya que es un trabajo en progreso`,
             github: 'https://github.com/fermorelli/cannagotchi',
             demo: ''
         },
