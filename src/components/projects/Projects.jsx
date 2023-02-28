@@ -14,9 +14,9 @@ export const Projects = ({lan})=>{
         {
             id: 5,
             title: 'Music Player (WIP)',
-            description: `Shazam clone app to stream online music, all functionalities replicated. Data is consumed fron a Shazam free API, using the Rapid API tool for better performance. Built with React, Tailwind, and Redux for stage management. No deployment yet since it's a work in progress`,
+            description: `Shazam clone app to stream online music, all functionalities replicated. Data is consumed fron a Shazam free API, using the Rapid API tool for better performance. Built with React, Tailwind, and Redux for stage management`,
             github: 'https://github.com/fermorelli/music-player',
-            demo: ''
+            demo: 'https://fermorelli-music-player.netlify.app/'
         },
         {
             id: 1,
@@ -58,10 +58,10 @@ export const Projects = ({lan})=>{
         },
         {
             id: 5,
-            title: 'Music Player (WIP)',
-            description: `Aplicación clon de Shazam para streaming de música online, todas las funcionalidades replicadas. Los datos se consumen desde una API gratuita de Shazam, utilizando la herramienta Rapid API para un mejor rendimiento. Desarrollado con React, Tailwind y Redux para manejar los estados. No hay deploy aún ya que es un trabajo en progreso`,
+            title: 'Music Player',
+            description: `Aplicación clon de Shazam para streaming de música online, todas las funcionalidades replicadas. Los datos se consumen desde una API gratuita de Shazam, utilizando la herramienta Rapid API para un mejor rendimiento. Desarrollado con React, Tailwind y Redux para manejar los estados`,
             github: 'https://github.com/fermorelli/music-player',
-            demo: ''
+            demo: 'https://fermorelli-music-player.netlify.app/'
         },
         {
             id: 1,
