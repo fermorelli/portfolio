@@ -13,7 +13,7 @@ export const Projects = ({lan})=>{
         },
         {
             id: 5,
-            title: 'Music Player (WIP)',
+            title: 'Music Player',
             description: `Shazam clone app to stream online music, all functionalities replicated. Data is consumed fron a Shazam free API, using the Rapid API tool for better performance. Built with React, Tailwind, and Redux for stage management`,
             github: 'https://github.com/fermorelli/music-player',
             demo: 'https://fermorelli-music-player.netlify.app/'
