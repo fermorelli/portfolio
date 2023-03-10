@@ -1,5 +1,6 @@
 import './footer.css';
-import {BsLinkedin, BsGithub, BsFacebook} from 'react-icons/bs';
+import {BsLinkedin, BsGithub} from 'react-icons/bs';
+import {ImBehance2} from 'react-icons/im';
 
 export const Footer = ({lan})=>{
 
@@ -17,7 +18,7 @@ export const Footer = ({lan})=>{
                 <div className="footer__socials">
                     <a href="https://www.linkedin.com/in/fer-morelli/" target='_blank' rel='noreferrer'><BsLinkedin /></a>
                     <a href="https://github.com/fermorelli" target='_blank' rel='noreferrer'><BsGithub /></a>
-                    <a href="https://www.facebook.com/ilcosme18" target='_blank' rel='noreferrer'><BsFacebook /></a>
+                    <a href="https://www.behance.net/fernandomorelli" target='_blank' rel='noreferrer'><ImBehance2 /></a>
                 </div>
             </footer>
         )
@@ -35,7 +36,7 @@ export const Footer = ({lan})=>{
                 <div className="footer__socials">
                     <a href="https://www.linkedin.com/in/fer-morelli/" target='_blank' rel='noreferrer'><BsLinkedin /></a>
                     <a href="https://github.com/fermorelli" target='_blank' rel='noreferrer'><BsGithub /></a>
-                    <a href="https://www.facebook.com/ilcosme18" target='_blank' rel='noreferrer'><BsFacebook /></a>
+                    <a href="https://www.behance.net/fernandomorelli" target='_blank' rel='noreferrer'><ImBehance2 /></a>
                 </div>
             </footer>
         )

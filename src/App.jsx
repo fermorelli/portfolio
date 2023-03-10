@@ -8,6 +8,7 @@ import { Projects } from "./components/projects/Projects";
 import { Loader } from "./components/loader/Loader";
 import { useState, useEffect } from "react";
 import {BsToggleOn, BsToggleOff} from 'react-icons/bs';
+import { DesignerProjects } from "./components/designer/designer";
 
 
 const App =  ()=>{
@@ -47,6 +48,7 @@ const App =  ()=>{
         <Nav></Nav>
         <About lan={lan ? 'eng' : 'es'}></About>
         <Projects lan={lan ? 'eng' : 'es'}></Projects>
+        <DesignerProjects lan={lan ? 'eng' : 'es'}></DesignerProjects>
         <Knowledge lan={lan ? 'eng' : 'es'}></Knowledge>
         <Contact lan={lan ? 'eng' : 'es'}></Contact>
         <Footer lan={lan ? 'eng' : 'es'}></Footer>
