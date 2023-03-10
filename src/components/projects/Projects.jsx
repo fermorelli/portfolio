@@ -7,28 +7,28 @@ export const Projects = ({lan})=>{
         {
             id: 4,
             title: 'Cannagotchi (WIP)',
-            description: `Cannabis crops tracking app developed by me using the complete MERN stack, in addition with Firebase to authenticate users. The app is aimed to help you maintain a control over your weed crops and to help you remembering plants cycles, harvest dates and much more!. No deployment yet since it's a work in progress`,
+            description: `Cannabis crops tracking app developed by me using the complete MERN stack, in addition with Firebase to authenticate users. The app is aimed to help you maintain a control over your weed crops and to help you remembering plants cycles, harvest dates and much more!`,
             github: 'https://github.com/fermorelli/cannagotchi',
             demo: ''
         },
         {
             id: 5,
             title: 'Music Player',
-            description: `Shazam clone app to stream online music, all functionalities replicated. Data is consumed fron a Shazam free API, using the Rapid API tool for better performance. Built with React, Tailwind, and Redux for stage management`,
+            description: `Shazam clone app to stream online music, all original functionalities replicated. Data is consumed from a Shazam free API, using the Rapid API tool for better performance. Front end built with React, Tailwind, and Redux for stage management`,
             github: 'https://github.com/fermorelli/music-player',
             demo: 'https://fermorelli-music-player.netlify.app/'
         },
         {
             id: 1,
             title: 'Market Palace',
-            description: 'Virtual store to browse and buy different products. Built with a shopping cart and, a credit card and shipping info form to make payments. Frontend made with react js, using the context hook, as well as the form hook for validations. Data is consumed from an API.',
+            description: 'Virtual store to browse and buy different products. Built with a shopping cart and, a credit card and shipping info form to make payments. Frontend made with react js, using the context hook, as well as the form hook for validations',
             github: 'https://github.com/fermorelli/E-commerce',
             demo: 'https://fermorelli.github.io/E-commerce'
         },
         {
             id: 3,
             title: 'Trackgenix',
-            description: 'App made with a development team, aimed to provide a schedule tracking service to companies wanting to manage their staff. Users can track their worked hours along with projects in wich they are involved. Frontend made with react js. Backend built with node js, mongo db and express',
+            description: 'App made with a development team, aimed to provide a schedule tracking service to companies wanting to manage their staff. Users can track their worked hours along with projects in wich they are involved. Built entirely with the MERN stack',
             github: 'https://github.com/fermorelli/Trackgenix-app',
             demo: ''
         },
@@ -42,7 +42,7 @@ export const Projects = ({lan})=>{
         {
             id: 6,
             title: 'Calculator',
-            description: 'Functional calculator made from scratch with plain HTML, CSS and JavaScript. Able to solve the basic operations that a normal calculator can handle. The style is made entirely with CSS, without libraries.',
+            description: 'Functional calculator made from scratch with plain HTML, CSS and JavaScript. Able to solve the basic operations that a normal calculator can handle. The whole project is built using plain languages, not using any library or framework.',
             github: 'https://github.com/fermorelli/CalculadoraVainilla',
             demo: 'https://fermorelli.github.io/CalculadoraVainilla/'
         },
@@ -52,14 +52,14 @@ export const Projects = ({lan})=>{
         {
             id: 4,
             title: 'Cannagotchi (WIP)',
-            description: `Aplicación de seguimiento de cultivos de cannabis desarrollada por mí utilizando el stack MERN completo, además de Firebase para autenticar a los usuarios. La app tiene como objetivo ayudarte a mantener un control detallado sobre tus cultivos, y a recordar los ciclos de las plantas, las fechas de cosecha y mucho más!. No hay deploy aún ya que es un trabajo en progreso`,
+            description: `Aplicación de seguimiento de cultivos de cannabis desarrollada por mí utilizando el stack MERN completo, además de Firebase para autenticar a los usuarios. La app tiene como objetivo ayudarte a mantener un control detallado sobre tus cultivos, y a recordar los ciclos de las plantas, las fechas de cosecha y mucho más!.`,
             github: 'https://github.com/fermorelli/cannagotchi',
             demo: ''
         },
         {
             id: 5,
             title: 'Music Player',
-            description: `Aplicación clon de Shazam para streaming de música online, todas las funcionalidades replicadas. Los datos se consumen desde una API gratuita de Shazam, utilizando la herramienta Rapid API para un mejor rendimiento. Desarrollado con React, Tailwind y Redux para manejar los estados`,
+            description: `Aplicación clon de Shazam para realizar streaming de música online, todas las funcionalidades originales estan replicadas. Los datos se consumen desde una API gratuita de Shazam, utilizando la herramienta Rapid API para un mejor rendimiento. Desarrollado con React, Tailwind y Redux para manejar los estados`,
             github: 'https://github.com/fermorelli/music-player',
             demo: 'https://fermorelli-music-player.netlify.app/'
         },
@@ -73,21 +73,21 @@ export const Projects = ({lan})=>{
         {
             id: 3,
             title: 'Trackgenix',
-            description: 'Aplicación realizada con un equipo de desarrollo, destinada a brindar un servicio de seguimiento de horarios a empresas que desean administrar su personal. Los usuarios pueden realizar un seguimiento de sus horas trabajadas junto con los proyectos en los que están involucrados. Frontend hecho con react js. Backend construido con node js, mongo db y express',
+            description: 'Aplicación realizada con un equipo de desarrollo, destinada a brindar un servicio de seguimiento de horarios a empresas que desean administrar su personal,  y sus proyectos. Hecha integramente con el stack MERN',
             github: 'https://github.com/fermorelli/Trackgenix-app',
             demo: ''
         },
         {
             id: 2,
             title: 'Shopping List',
-            description: 'Lista de compras realizada integramente con JavaScript vainilla, HTML y CSS, utilizando local storage como método de almacenamiento. Permite que el usuario añada, edite o borre elementos a su elección, formando una lista de compras que es persistente en el navegador para una mayor funcionalidad.',
+            description: 'Lista de compras realizada integramente con JavaScript vainilla, HTML y CSS, utilizando local storage como método de almacenamiento. Permite que el usuario añada, edite o borre elementos a su elección. manteniendo persistencia en el navegador.',
             github: 'https://github.com/fermorelli/shopping-list',
             demo: 'https://fermorelli.github.io/shopping-list/'
         },
         {
             id: 6,
             title: 'Calculadora',
-            description: 'Calculadora funcional hecha desde cero con HTML, CSS y JavaScript. Capaz de resolver las operaciones básicas que puede manejar una calculadora normal. El estilo está realizado íntegramente con CSS, sin librerías.',
+            description: 'Calculadora funcional hecha desde cero con HTML, CSS y JavaScript. Capaz de resolver las operaciones básicas que puede manejar una calculadora normal. La aplicación entera esta realizada con los lenguages vainilla, sin librerías o frameworks adicionales',
             github: 'https://github.com/fermorelli/CalculadoraVainilla',
             demo: 'https://fermorelli.github.io/CalculadoraVainilla/'
         },
