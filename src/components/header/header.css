@@ -87,6 +87,9 @@ header {
     .me {
         height: 24rem;
     }
+    .cta{
+        bottom: 8rem;
+    }
 }
 
 @media screen and (max-width: 600px) {

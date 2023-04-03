@@ -1,5 +1,5 @@
 import styles from './about.css';
-import me from '../../assets/me4.jpg';
+import me from '../../assets/fer.png';
 import {FaCode, FaTools} from 'react-icons/fa';
 import {AiOutlineFundProjectionScreen} from 'react-icons/ai';
 

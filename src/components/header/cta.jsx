@@ -1,5 +1,5 @@
-import CV1 from '../../assets/CVFernandoMorelliENG.pdf'
-import CV2 from '../../assets/CVFernandoMorelliES.pdf'
+import CV1 from '../../assets/FernandoMorelliResume.pdf'
+import CV2 from '../../assets/CVFernandoMorelli.pdf'
 
 export const CTA = ({lan}) =>{
     if(lan==='eng'){

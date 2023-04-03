@@ -19,9 +19,13 @@
 }
 
 .about__me-image {
-    border-radius: 5px;
     overflow: hidden;
     transform: rotate(10deg);
+}
+
+.about__me img {
+    border: 2px solid violet;
+    border-radius: 300px;
 }
 
 .about__me-image:hover {
