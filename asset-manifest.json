@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d24c59f3.css",
-    "main.js": "/portfolio/static/js/main.7d56eaa6.js",
+    "main.css": "/portfolio/static/css/main.7b5a4737.css",
+    "main.js": "/portfolio/static/js/main.9ee71384.js",
+    "static/media/fer.png": "/portfolio/static/media/fer.34ec83a890e5b85f8258.png",
     "static/media/jelly-cd.jpg": "/portfolio/static/media/jelly-cd.ea63660e390d5cd45f3e.jpg",
     "static/media/landing2.jpg": "/portfolio/static/media/landing2.989cfad7367a9da0653b.jpg",
     "static/media/skull.jpg": "/portfolio/static/media/skull.ca515dadefc9fee36f5c.jpg",
-    "static/media/me4.jpg": "/portfolio/static/media/me4.c6dd5b39a70fb753c120.jpg",
     "static/media/landing1.jpg": "/portfolio/static/media/landing1.ada967cf7d674922991f.jpg",
     "static/media/branding-mj.jpg": "/portfolio/static/media/branding-mj.214694c3a7691eefd28e.jpg",
     "static/media/addplant.jpg": "/portfolio/static/media/addplant.d15bb6c00c03f42b9ad4.jpg",
@@ -26,11 +26,11 @@
     "static/media/shopping4.jpg": "/portfolio/static/media/shopping4.1d09cfaa96cd11ace818.jpg",
     "static/media/shopping1.jpg": "/portfolio/static/media/shopping1.b001507027f482e9fa98.jpg",
     "index.html": "/portfolio/index.html",
-    "main.d24c59f3.css.map": "/portfolio/static/css/main.d24c59f3.css.map",
-    "main.7d56eaa6.js.map": "/portfolio/static/js/main.7d56eaa6.js.map"
+    "main.7b5a4737.css.map": "/portfolio/static/css/main.7b5a4737.css.map",
+    "main.9ee71384.js.map": "/portfolio/static/js/main.9ee71384.js.map"
   },
   "entrypoints": [
-    "static/css/main.d24c59f3.css",
-    "static/js/main.7d56eaa6.js"
+    "static/css/main.7b5a4737.css",
+    "static/js/main.9ee71384.js"
   ]
 }
