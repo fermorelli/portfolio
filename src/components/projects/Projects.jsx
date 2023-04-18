@@ -9,7 +9,7 @@ export const Projects = ({lan})=>{
             title: 'Cannagotchi (WIP)',
             description: `Cannabis crops tracking app developed by me using the complete MERN stack, in addition with Firebase to authenticate users. The app is aimed to help you maintain a control over your weed crops and to help you remembering plants cycles, harvest dates and much more!`,
             github: 'https://github.com/fermorelli/cannagotchi',
-            demo: ''
+            demo: 'https://cannagotchi.vercel.app/'
         },
         {
             id: 5,
@@ -54,7 +54,7 @@ export const Projects = ({lan})=>{
             title: 'Cannagotchi (WIP)',
             description: `Aplicación de seguimiento de cultivos de cannabis desarrollada por mí utilizando el stack MERN completo, además de Firebase para autenticar a los usuarios. La app tiene como objetivo ayudarte a mantener un control detallado sobre tus cultivos, y a recordar los ciclos de las plantas, las fechas de cosecha y mucho más!.`,
             github: 'https://github.com/fermorelli/cannagotchi',
-            demo: ''
+            demo: 'https://cannagotchi.vercel.app/'
         },
         {
             id: 5,
@@ -112,7 +112,7 @@ export const Projects = ({lan})=>{
                                     </div>
                                     <div className="portfolio__item-cta">
                                         <a href={github} className='btn' target='_blank'  id='btn'>Github</a>
-                                        <a href={demo} target='_blank' className='btn btn-primary'  id='btn'>Deploy</a>
+                                        {demo ? <a href={demo} target='_blank' className='btn btn-primary'  id='btn'>Deploy</a> : null}
                                     </div>
                             </article>
                             )
@@ -140,7 +140,7 @@ export const Projects = ({lan})=>{
                                     </div>
                                     <div className="portfolio__item-cta">
                                         <a href={github} className='btn' target='_blank'  id='btn'>Github</a>
-                                        <a href={demo} target='_blank' className='btn btn-primary'  id='btn'>Deploy</a>
+                                        {demo ? <a href={demo} target='_blank' className='btn btn-primary'  id='btn'>Deploy</a> : null}
                                     </div>
                             </article>
                             )
