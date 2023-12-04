@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.fb2e5078.css",
-    "main.js": "/portfolio/static/js/main.6d99f4cc.js",
-    "static/media/fer.png": "/portfolio/static/media/fer.34ec83a890e5b85f8258.png",
+    "main.js": "/portfolio/static/js/main.1c797d2e.js",
+    "static/media/FernandoMorelliResume.pdf": "/portfolio/static/media/FernandoMorelliResume.f00e959e0271cd73238d.pdf",
+    "static/media/CVFernandoMorelli.pdf": "/portfolio/static/media/CVFernandoMorelli.2dd2e2a9cb509f7c4538.pdf",
     "static/media/jelly-cd.jpg": "/portfolio/static/media/jelly-cd.ea63660e390d5cd45f3e.jpg",
     "static/media/landing2.jpg": "/portfolio/static/media/landing2.989cfad7367a9da0653b.jpg",
     "static/media/skull.jpg": "/portfolio/static/media/skull.ca515dadefc9fee36f5c.jpg",
@@ -11,13 +12,12 @@
     "static/media/addplant.jpg": "/portfolio/static/media/addplant.d15bb6c00c03f42b9ad4.jpg",
     "static/media/musicPlayer.jpg": "/portfolio/static/media/musicPlayer.8daed91de059a82fec28.jpg",
     "static/media/ecommerce.jpg": "/portfolio/static/media/ecommerce.4a133a495f37791e7e98.jpg",
-    "static/media/CVFernandoMorelli.pdf": "/portfolio/static/media/CVFernandoMorelli.1bf27e2368a396a3ccfd.pdf",
-    "static/media/FernandoMorelliResume.pdf": "/portfolio/static/media/FernandoMorelliResume.2b872c5c938d8f4ce7a3.pdf",
     "static/media/singleplant.jpg": "/portfolio/static/media/singleplant.a9b2e83605f584154899.jpg",
     "static/media/ecommerce2.jpg": "/portfolio/static/media/ecommerce2.caf5b997e205fead58f2.jpg",
     "static/media/ecommerce3.jpg": "/portfolio/static/media/ecommerce3.c469a621c32b82d69913.jpg",
     "static/media/ecommerce4.jpg": "/portfolio/static/media/ecommerce4.0672de3ba9402673cb43.jpg",
     "static/media/trackgenix3.jpeg": "/portfolio/static/media/trackgenix3.ffa6f8314893ba2ab757.jpeg",
+    "static/media/fer1.jpg": "/portfolio/static/media/fer1.81d21512fc01db8e6cce.jpg",
     "static/media/calculadora.png": "/portfolio/static/media/calculadora.9058810f91aad5157b25.png",
     "static/media/trackgenix2.jpeg": "/portfolio/static/media/trackgenix2.dabcf09032cd57aa44b4.jpeg",
     "static/media/trackgenix1.jpeg": "/portfolio/static/media/trackgenix1.89aba5600cc098df5e3b.jpeg",
@@ -27,10 +27,10 @@
     "static/media/shopping1.jpg": "/portfolio/static/media/shopping1.b001507027f482e9fa98.jpg",
     "index.html": "/portfolio/index.html",
     "main.fb2e5078.css.map": "/portfolio/static/css/main.fb2e5078.css.map",
-    "main.6d99f4cc.js.map": "/portfolio/static/js/main.6d99f4cc.js.map"
+    "main.1c797d2e.js.map": "/portfolio/static/js/main.1c797d2e.js.map"
   },
   "entrypoints": [
     "static/css/main.fb2e5078.css",
-    "static/js/main.6d99f4cc.js"
+    "static/js/main.1c797d2e.js"
   ]
 }
