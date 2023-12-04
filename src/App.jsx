@@ -33,14 +33,14 @@ const App =  ()=>{
         <>
         <div>
         {!isOn ? <div className="language-toggle">
-                  <span>Ingles</span>
+                  <span>English</span>
                   <BsToggleOn onClick={()=>{changeLan()}}/>
                   <span>Español</span>
                 </div> :
                 <div className="language-toggle">
                   <span>English</span>
                   <BsToggleOff onClick={()=>{changeLan()}}/>
-                  <span>Spanish</span>
+                  <span>Español</span>
                 </div>
                 }
         </div>
