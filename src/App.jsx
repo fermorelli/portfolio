@@ -9,6 +9,7 @@ import { Loader } from "./components/loader/Loader";
 import { useState, useEffect } from "react";
 import {BsToggleOn, BsToggleOff} from 'react-icons/bs';
 import { DesignerProjects } from "./components/designer/designer";
+import { Websites } from "./components/websites/websites";
 
 
 const App =  ()=>{
@@ -47,6 +48,7 @@ const App =  ()=>{
         <Header lan={lan ? 'eng' : 'es'}></Header>
         <Nav></Nav>
         <About lan={lan ? 'eng' : 'es'}></About>
+        {/* <Websites lan={lan ? 'eng' : 'es'}></Websites> */}
         <Projects lan={lan ? 'eng' : 'es'}></Projects>
         <DesignerProjects lan={lan ? 'eng' : 'es'}></DesignerProjects>
         <Knowledge lan={lan ? 'eng' : 'es'}></Knowledge>

@@ -54,7 +54,7 @@ export const Contact = ({lan})=>{
                             <a target="_blank" href="https://api.whatsapp.com/send?phone=543413417126">Send a message</a>
                         </article>
                     </div>
-                    <form ref={form} onSubmit={sendEmail}>
+                    <form id='form' ref={form} onSubmit={sendEmail}>
                         <input type="text" name='name' placeholder='Your full name' required />
                         <input type="email" name='email' placeholder='Your email' required />
                         <textarea name="message" placeholder='Your message' rows="7" required></textarea>
