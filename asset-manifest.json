@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fb2e5078.css",
-    "main.js": "/portfolio/static/js/main.1c797d2e.js",
+    "main.css": "/portfolio/static/css/main.f2748d45.css",
+    "main.js": "/portfolio/static/js/main.a4240ef7.js",
     "static/media/FernandoMorelliResume.pdf": "/portfolio/static/media/FernandoMorelliResume.f00e959e0271cd73238d.pdf",
     "static/media/CVFernandoMorelli.pdf": "/portfolio/static/media/CVFernandoMorelli.2dd2e2a9cb509f7c4538.pdf",
     "static/media/jelly-cd.jpg": "/portfolio/static/media/jelly-cd.ea63660e390d5cd45f3e.jpg",
@@ -18,19 +18,27 @@
     "static/media/ecommerce4.jpg": "/portfolio/static/media/ecommerce4.0672de3ba9402673cb43.jpg",
     "static/media/trackgenix3.jpeg": "/portfolio/static/media/trackgenix3.ffa6f8314893ba2ab757.jpeg",
     "static/media/fer1.jpg": "/portfolio/static/media/fer1.81d21512fc01db8e6cce.jpg",
+    "static/media/microsite.webp": "/portfolio/static/media/microsite.f1edca168b0701e575df.webp",
+    "static/media/mastertech.webp": "/portfolio/static/media/mastertech.d87cc788b9e1c7658fae.webp",
+    "static/media/parish.webp": "/portfolio/static/media/parish.0490e71ec7dde40b68d3.webp",
+    "static/media/triple.webp": "/portfolio/static/media/triple.1b36d503ae5696ef5c69.webp",
     "static/media/calculadora.png": "/portfolio/static/media/calculadora.9058810f91aad5157b25.png",
+    "static/media/carpetnow.webp": "/portfolio/static/media/carpetnow.14f0b114ce02aa3f39d8.webp",
+    "static/media/opm.webp": "/portfolio/static/media/opm.ce55349960dfc211fc8e.webp",
+    "static/media/shiptons.webp": "/portfolio/static/media/shiptons.5853f7cf6755c515d544.webp",
     "static/media/trackgenix2.jpeg": "/portfolio/static/media/trackgenix2.dabcf09032cd57aa44b4.jpeg",
     "static/media/trackgenix1.jpeg": "/portfolio/static/media/trackgenix1.89aba5600cc098df5e3b.jpeg",
     "static/media/shopping2.jpg": "/portfolio/static/media/shopping2.9a9f5dba9b7e8cc6e4d3.jpg",
+    "static/media/hma.webp": "/portfolio/static/media/hma.970ffc93cbc51d00884c.webp",
     "static/media/shopping3.jpg": "/portfolio/static/media/shopping3.23235e334a991f33fa24.jpg",
     "static/media/shopping4.jpg": "/portfolio/static/media/shopping4.1d09cfaa96cd11ace818.jpg",
     "static/media/shopping1.jpg": "/portfolio/static/media/shopping1.b001507027f482e9fa98.jpg",
     "index.html": "/portfolio/index.html",
-    "main.fb2e5078.css.map": "/portfolio/static/css/main.fb2e5078.css.map",
-    "main.1c797d2e.js.map": "/portfolio/static/js/main.1c797d2e.js.map"
+    "main.f2748d45.css.map": "/portfolio/static/css/main.f2748d45.css.map",
+    "main.a4240ef7.js.map": "/portfolio/static/js/main.a4240ef7.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb2e5078.css",
-    "static/js/main.1c797d2e.js"
+    "static/css/main.f2748d45.css",
+    "static/js/main.a4240ef7.js"
   ]
 }
